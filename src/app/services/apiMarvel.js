@@ -7,4 +7,3 @@ const apiMarvel = axios.create({
 
 
 export default apiMarvel;
-
